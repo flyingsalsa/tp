@@ -121,6 +121,7 @@
         "favouriting-a-game-favgame": "Favouriting a game : favgame",
         "un-favouriting-a-game-unfavgame": "Un-favouriting a game : unfavgame",
         "locating-persons-by-name-find": "Locating persons by name: find",
+        "locating-persons-by-time-range-findtime": "Locating persons by time range: findtime",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
