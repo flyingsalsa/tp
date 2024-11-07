@@ -126,6 +126,7 @@
         "locating-persons-by-time-range-findtime": "Locating persons by time range: findtime",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
+        "undoing-previous-command-undo": "Undoing previous command : undo",
         "exiting-the-program-exit": "Exiting the program : exit",
         "data-storage": "Data storage",
         "saving-the-data-file-save": "Saving the data file : save",
