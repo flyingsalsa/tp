@@ -389,7 +389,7 @@ with(this){return _c('ol',[_c('li',[_v("User requests to find contacts that play
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. User enters an invalid or wrongly-formatted time.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. GamerBook notifies user the correct input format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_v("1b. User enters only the starting time.\n"),_c('ul',[_c('li',[_c('p',[_v("1b1. GamerBook returns all contacts that overlaps with the single time point.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. User enters an invalid or wrongly-formatted time.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. GamerBook notifies user the correct input format.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"non-functional-requirements"}},[_v("Non-Functional Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#non-functional-requirements","onclick":"event.stopPropagation()"}})])}
@@ -467,6 +467,6 @@ with(this){return _c('h3',{attrs:{"id":"findtime-command-adjustment-on-boundary-
 with(this){return _c('p',[_v("FindTime Command "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("findtime")]),_v(" is currently border sensitive."),_c('br'),_v("\ne.g.:"),_c('br'),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("findtime 2200-2300")]),_v(" will return you all the person cards whose preferred times overlap with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2200-2300")]),_v(",\nwith range "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2100-2200")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2300-2330")]),_v(" counted as overlapping. Which should not be the case, as there is\nonly overlap at the boundary.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 1:37:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 1:38:57 GMT+8]")])])])}
 }];
   
